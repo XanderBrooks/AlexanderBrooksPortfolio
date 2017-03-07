@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/XanderBrooks/AlexanderBrooksPortfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XanderBrooks/AlexanderBrooksPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Home</title>
+	<link type="text/css" rel="stylesheet" href="styles\mystyle.css" media="screen">
+	<style>
+	<link href="https://fonts.googleapis.com/css?family=Bungee+Inline|Bungee+Shade|Inconsolata|Knewave|Lobster|Merienda+One|Metal+Mania|Oleo+Script|Oleo+Script+Swash+Caps|Pattaya|Playfair+Display|Shrikhand" rel="stylesheet">
+	</style>
+</head>
+<body>
+	<ul class="nav">
+		<li>
+			<a href="index.html" class="active">Home</a>
+		</li>
+		<li>
+			<a href="scripts\accessibility.html">Accessibility</a>
+		</li>
+		<li>
+			<a href="scripts\photography.html">Photography</a>
+		</li>
+		<li>
+			<a href="scripts\video.html">Videos</a>
+		</li>
+	</ul>
+	<div class="parallax"><p4><center>Website Portfolio<br>Alexander Brooks</p4></div>
+	<h2><strong>Course info</strong></h2>
+	<br>
+	<p1>Name: Digital Media Development<br>Teacher: Mrs. Gaynor Sward<br>School: <a href="https://www.schoolathome.ca">Traditional Learning Academy</a><br>Year: 2016-2017<br></p1>
+	<h3><strong><br>About Me</strong></font><br></h3>
+	<div class="profile"><img src="https://lh3.googleusercontent.com/DI-QcemeIaF3l9UEL-A6jboprkS9z3t4vILr4W4GNymIiAjm2-23NQX4Jzt4NMCPBH0FWq4JpVbjyA=w1920-h1080-rw-no" alt="profile-photo" style="width:100px;height:100px;"></div>
+	<p1><br>Alexander Brooks<br>Email Address:</p1>
+	<a href="mailto:alexanderbrooks@schoolathome.ca">AlexanderBrooks@schoolathome.ca</a><br>
+	</body>
+</html>
